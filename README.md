@@ -18,11 +18,11 @@ Todos os arquivos são parte integrante da experiência expandida do livro e pod
 
 | Arquivo | Tipo | Descrição |
 |--------|------|-----------|
-| `01-arquitetura_do_abraco.jpg` | imagem | O abraço como estrutura invisível |
+| `01-arquitetura_do_abraco.png` | imagem | O abraço como estrutura invisível |
 | `01-arte_em_movimento.mp4` | vídeo | Movimento corporal como linguagem subversiva |
-| `02-liberdade.jpg` | imagem | Corpo em fuga da norma |
+| `02-liberdade.png` | imagem | Corpo em fuga da norma |
 | `02-memoria_sinestesica.mp4` | vídeo | Sinestesia como memória resistente |
-| `03-arte_pictorica_do_amor.jpg` | imagem | Amor como paisagem interna |
+| `03-arte_pictorica_do_amor.png` | imagem | Amor como paisagem interna |
 | `03-liberdade.mp4` | vídeo | Dança como protocolo de libertação |
 | `03-Madrugada sinestésica.mp3` | áudio | Composição original — saxofone, campo gravado, bitcrush |
 | `04-cartografia_do_desejo.mp4` | vídeo | Trajetórias de encontro no espaço urbano |
